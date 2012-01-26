@@ -1,0 +1,2 @@
+a) Returns t if one of the elements of x is an empty list, nil otherwise.
+b) Returns the position of x if x is in y, nil otherwise.
