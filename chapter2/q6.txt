@@ -1,0 +1,7 @@
+a) car
+b) or
+c) The closest I got was:
+
+	(butlast (funcall #'list 1 nil))
+
+which gave me the correct result. If anyone has a better answer, I'd be much obliged.
